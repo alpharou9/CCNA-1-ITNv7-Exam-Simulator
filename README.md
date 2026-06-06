@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CCNA 1 (ITNv7) Exam Simulator
 
 A free, single-file web app for practicing the **CCNA 1: Introduction to Networks (ITNv7)** final exam. Open it in any browser — no install, no server, no internet required after download. Everything (questions, images, logic) lives in one self-contained HTML file.
@@ -68,3 +69,7 @@ The questions and answer keys were assembled from **publicly circulated practice
 ## License
 
 [MIT](LICENSE) © 2026 Farouk Nakkach
+=======
+# CCNA-1-ITNv7-Exam-Simulator
+guaranteed 80% succes 
+>>>>>>> af82d7612ac0b4b0a690e3573ba411c94cb17db7
